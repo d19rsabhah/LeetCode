@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class Buy_Two_Chocolates {
     public int buyChoco(int[] prices, int money) {
