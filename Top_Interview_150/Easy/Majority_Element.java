@@ -1,3 +1,5 @@
+package Top_Interview_150.Easy;
+
 import java.util.Arrays;
 
 public class Majority_Element {

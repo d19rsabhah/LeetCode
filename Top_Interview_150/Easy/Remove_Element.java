@@ -1,3 +1,5 @@
+package Top_Interview_150.Easy;
+
 public class Remove_Element {
 
     public int removeElement(int[] nums, int val) {

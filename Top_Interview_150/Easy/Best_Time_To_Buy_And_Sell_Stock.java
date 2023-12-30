@@ -1,3 +1,5 @@
+package Top_Interview_150.Easy;
+
 public class Best_Time_To_Buy_And_Sell_Stock {
     public int maxProfit(int[] prices) {
         int lsf = Integer.MAX_VALUE;

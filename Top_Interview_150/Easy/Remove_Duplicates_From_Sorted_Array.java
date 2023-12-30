@@ -1,3 +1,5 @@
+package Top_Interview_150.Easy;
+
 public class Remove_Duplicates_From_Sorted_Array {
     public int removeDuplicates(int[] nums) {
         // HashSet<Integer> set = new HashSet<>();
